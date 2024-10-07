@@ -1,0 +1,17 @@
+<svg aria-label="Graphics Symbol" role="graphics-symbol" width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<g clip-path="url(#clip0_1405_36139565)">
+									<path d="M16.4658 5.44922L3.78113 5.44922C2.61325 5.44922 1.6665 6.39597 1.6665 7.56384L1.6665 14.963C1.6665 16.1308 2.61325 17.0776 3.78113 17.0776H16.4658C17.6336 17.0776 18.5804 16.1308 18.5804 14.963V7.56384C18.5804 6.39597 17.6336 5.44922 16.4658 5.44922Z" fill="#D7E0FF" stroke="#494FC9" stroke-width="1.23783" stroke-linecap="round" stroke-linejoin="round"></path>
+									<path d="M1.6665 9.67969L9.00992 9.67969" stroke="#494FC9" stroke-width="1.23783" stroke-linecap="round" stroke-linejoin="round"></path>
+									<path d="M11.2368 9.67969L18.5802 9.67969" stroke="#494FC9" stroke-width="1.23783" stroke-linecap="round" stroke-linejoin="round"></path>
+									<path d="M13.295 5.45093L6.95215 5.45093L7.33381 3.61172C7.40222 3.39314 7.54242 3.20404 7.73168 3.07506C7.92095 2.94607 8.14822 2.88474 8.37668 2.90101L11.8704 2.90101C12.0989 2.88474 12.3262 2.94607 12.5154 3.07506C12.7047 3.20404 12.8449 3.39314 12.9133 3.61172L13.295 5.45093Z" stroke="#494FC9" stroke-width="1.23783" stroke-linecap="round" stroke-linejoin="round"></path>
+									<path d="M10.7087 8.62109H9.5379C9.24622 8.62109 9.00977 8.85755 9.00977 9.14923V11.2639C9.00977 11.5555 9.24622 11.792 9.5379 11.792H10.7087C11.0004 11.792 11.2368 11.5555 11.2368 11.2639V9.14923C11.2368 8.85755 11.0004 8.62109 10.7087 8.62109Z" fill="#D7E0FF" stroke="#494FC9" stroke-width="1.23783" stroke-linecap="round" stroke-linejoin="round"></path>
+									<path d="M16.2497 19.5638C17.8605 19.5638 19.1663 18.258 19.1663 16.6471C19.1663 15.0363 17.8605 13.7305 16.2497 13.7305C14.6388 13.7305 13.333 15.0363 13.333 16.6471C13.333 18.258 14.6388 19.5638 16.2497 19.5638Z" fill="white" stroke="#494FC9" stroke-width="1.24"></path>
+									<path d="M16.2803 15.4414V17.8223" stroke="#494FC9" stroke-linecap="round"></path>
+									<path d="M17.4708 16.6289H15.0898" stroke="#494FC9" stroke-linecap="round"></path>
+								</g>
+								<defs>
+									<clipPath id="clip0_1405_36139565">
+										<rect width="20" height="20" fill="white" transform="translate(0 0.398438)"></rect>
+									</clipPath>
+								</defs>
+							</svg>

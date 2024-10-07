@@ -1,0 +1,32 @@
+.carer-bar-wrap {
+    background-color: #368170;
+    padding: 8px 15px;
+    /* width: 1350px; */
+    overflow-x: hidden;
+    height: 45px;
+    overflow-y: hidden;
+}
+.carer-bar{
+    display: flex;
+    
+     justify-content: center;
+}
+
+.carer-bar p {
+    color: white;
+    margin: 0; 
+    font-size: bold;   
+}
+
+.carer-bar-btn button {
+    background-color: white; 
+    color: #368170; 
+    border: 1px solid #333333;
+    padding: 3px 10px; 
+    cursor: pointer;
+}
+
+.carer-bar-btn button:hover {
+    background-color: #368170; 
+    color: black; 
+}
